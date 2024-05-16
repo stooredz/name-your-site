@@ -1,0 +1,23 @@
+<!-- بداية المنتج  -->
+<div class="card">
+<h4 class="shirt_text">سماعات</h4>
+<div class="image">
+<img src="images/4.png">
+</div>
+<div class="info" dir="rtl">
+<h3>السعر : <span>3600 دج</span></h3>
+<p style="text-decoration: line-through;">4300 دج</p>
+</div>
+<div class="description">
+</div>
+<div class="btn_main">
+<button class="btn-order" onclick="orderNow(
+'سماعات',
+'3600',
+'سماعات احترفية',
+'images/4.png')">
+<i class="animation"></i>أطلب الآن<i class="animation"></i>
+</button>
+</div>
+</div>
+<!-- نهاية المنتج  -->
